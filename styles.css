@@ -1,0 +1,10 @@
+h1 {
+  font-size: 18px;
+  display: inline;
+}
+ol {
+  list-style: none;
+}
+li {
+  display: inline;
+}
